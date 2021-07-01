@@ -1,2 +1,2 @@
 # project 10
- Windows 10 (GUI) (HTML,CSS,JAVASCRIPT)
+ Windows 7 (GUI) (HTML,CSS,JAVASCRIPT)
